@@ -114,9 +114,10 @@
     position: absolute;
     z-index: 2;
     display: inline-block;
-    width: 45% !important;
-    height: 45%;
-    font: 14px Arial !important;
+    width: 65px;
+    height: 65px;
+    font-size: 12px!important;
+    font-weight: bold;
     text-transform: uppercase;
     line-height: 68px !important;
     cursor: pointer;

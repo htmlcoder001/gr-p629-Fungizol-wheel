@@ -51,7 +51,7 @@
   position: absolute;
   z-index: 1;
   display: inline-block;
-  width: 45% !important;
+  width: 65px !important;
   line-height: 61px;
   cursor: pointer;
   border-radius: 50%;
